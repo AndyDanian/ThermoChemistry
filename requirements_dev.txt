@@ -1,3 +1,4 @@
 pmutt>=1.2.21
 ipykernel>=5.5.6
 ipympl>=0.8.8
+imbalanced-learn>=0.8.1
